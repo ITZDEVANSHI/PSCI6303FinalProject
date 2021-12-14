@@ -251,6 +251,6 @@ TODO: include charts
 
 ## Conclusions
 + Although this data was generated with the intension to show that this experiment would succeed, we believe the
-  experiment could work and a real research experiment and real data are needed in order to come up to a solid
+  experiment could work effectively and a real research experiment and real data will be needed in order to come up to a solid
   conclusion.
-+ The main challenge we face in collecting this data is Twitter support to allow us to run the experiment.
++ The main challenge we might face is collecting this data if Twitter Platform supports to allow us to run the experiment.
