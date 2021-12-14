@@ -39,25 +39,23 @@ print.percentage <- function(part, whole, rounding.digits = 3) {
 
 Describe the scale of the problem using existing data / opinions from expert reports or academic papers 
 
-> Tennessee-Knoxville study analyzed 770,005 tweets in English from known Russian troll accounts
+> Tennessee-Knoxville study analyzed 770,005 tweets in English from known Russian troll accounts.
 
 Who is the target of the cyberthreat? 
 
-> The U.S.A. Presidential election for support of Donald Trump
+> To smear Clinton's campaign, increase Trump's chances, and sow distrust in American democracy in general.
   
 Do we know how many targets are affected in the population? What is the proportion of the target group in the overall
 population of interest? 
 
-> Many estimates based on the posts and their reach. The portion of interest is those who saw ads AND changed their vote
-> as a result.
+> Many estimates based on the posts and their reach. The portion of interest is those who saw ads AND changed their vote as a result.
 
 ## Ideal Conditions
 
 Describe the ideal data you would need to obtain a precise estimate of scale of the problem (proportion of the targeted
 units in the overall population of interest)
 
-> How many people were directly influenced by Trolls I.e. were exposed to troll material and changed their vote as a 
-> result.
+> How many people were directly influenced by Trolls I.e. were exposed to troll material and changed their vote as a result.
 
 What are the major obstacles for collecting these data? 
 
